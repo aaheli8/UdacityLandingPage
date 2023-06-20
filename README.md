@@ -1,13 +1,26 @@
-# Landing Page Project
+# Cooking Class Landing Page
+
+A landing page for learning various cuisines
 
 ## Table of Contents
 
-* [Instructions](#instructions)
+- Home
+- About
+- Courses
+- Pricing
 
-## Instructions
+## languages used
 
-The starter project has some HTML and CSS styling to display a static version of the Landing Page project. You'll need to convert this project from a static project to an interactive one. This will require modifying the HTML and CSS files, but primarily the JavaScript file.
+- HTML
+- CSS
+- JavaScript
 
-To get started, open `js/app.js` and start building out the app's functionality
+## functionalities
 
-For specific, detailed instructions, look at the project instructions in the Udacity Classroom.
+- The nav bar is built dynamically using javascript
+- The webpage enables smooth scrolling
+- Whenever a particular section is selected, it is highlighted in red
+
+## About
+
+This is a basic landing page for cooking courses. It consists of various sections to enhance the learning experience of users.

@@ -9,8 +9,8 @@ const navlist=document.getElementById('navbar__list');
 const navBar=[
     {label:'Home', url:'#home'},
     {label:'About',url: '#about' },
-    {label:'Services',url: '#services' },
-    {label:'Contact' , url:'#contact'}
+    {label:'Courses',url: '#courses' },
+    {label:'Pricing' , url:'#contact'}
 ];
  
 navBar.forEach(item => {
